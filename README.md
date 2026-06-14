@@ -66,9 +66,11 @@
 
 ### Cat 1 — 비숍 픽앤플레이스
 ![cat1_bishop](figures/cat1_bishop.gif)
+<img width="256" height="256" alt="2" src="https://github.com/user-attachments/assets/58576b4d-79c3-4706-ac5f-ace015f571a7" />
 
 ### Cat 2 — 비숍 Top-down (Pitch)
 ![cat2_bishop](figures/cat2_bishop.gif)
+<img width="256" height="256" alt="2" src="https://github.com/user-attachments/assets/d22ca1ef-f55d-40ed-9bb2-e4fbffb1420c" />
 
 ### Cat 3 — 캡처
 ![cat3_capture](figures/cat3_capture.gif)
