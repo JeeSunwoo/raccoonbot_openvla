@@ -1,4 +1,3 @@
-<img width="256" height="256" alt="11" src="https://github.com/user-attachments/assets/c81c9032-3daa-45b1-b64d-767c6723b0f4" />
 # raccoonbot_openvla
 2021741045_JeeSunWoo
 
