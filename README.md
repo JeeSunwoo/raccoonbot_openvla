@@ -178,11 +178,6 @@ Raccoonbot_Openvla/
 ├── report.pdf
 ├── logs/
 │   └── train_log.txt
-├── figures/
-│   ├── cat1_rook.gif
-│   ├── cat1_bishop.gif
-│   ├── cat2_bishop.gif
-│   └── cat3_capture.gif
 └── Mujoco/
     ├── raccoon_env_pitch_real.py
     ├── chess_pick_place_dataset.py
