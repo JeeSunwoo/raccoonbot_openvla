@@ -78,15 +78,28 @@
 
 ## 평가 결과
 
-대표 시나리오 (Cat1: 10개, Cat2: 10개, Cat3: 5개, Cat4: 3개), 각 3회 롤아웃.
+전체 126개 시나리오, 각 10회 롤아웃 (총 1,260 에피소드).
 
 | 카테고리 | 설명 | 시나리오 수 | 성공/전체 | 성공률 |
 |----------|------|-------------|-----------|--------|
-| Cat 1 | 일반 픽앤플레이스 | 10 | — / 30 | — % |
-| Cat 2 | Pitch top-down | 10 | — / 30 | — % |
-| Cat 3 | 캡처 | 5 | — / 15 | — % |
-| Cat 4 | 캡처 + pitch | 3 | — / 9 | — % |
-| **전체** | | **28** | **— / 84** | **— %** |
+| Cat 1 | 일반 픽앤플레이스 | 80 | 725 / 800 | 90.6% |
+| Cat 2 | Pitch top-down | 20 | 149 / 200 | 74.5% |
+| Cat 3 | 캡처 | 23 | 196 / 230 | 85.2% |
+| Cat 4 | 캡처 + pitch | 3 | 20 / 30 | 66.7% |
+| **전체** | | **126** | **1090 / 1260** | **86.5%** |
+
+![success rate](figures/cat_success_rate.png)
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/260068a0-83f7-48fa-a2b2-c2c3be231de6" />
+
+성공 에피소드의 place error 분포 (카테고리별):
+
+![place error](figures/place_err_boxplot.png)
+<img width="1200" height="750" alt="cat_success_rate" src="https://github.com/user-attachments/assets/d4f3ce04-cbbb-48aa-bbe0-f341484b715c" />
+
+시작/목적지 셀별 성공률:
+
+![cell heatmap](figures/scenario_success_rate.png)
+<img width="1401" height="730" alt="image" src="https://github.com/user-attachments/assets/cc9d203b-9ad6-4a77-940b-2c93216a1e06" />
 
 ---
 
