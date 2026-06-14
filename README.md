@@ -65,7 +65,8 @@
 
 ### Cat 1 — 비숍 픽앤플레이스
 ![cat1_bishop](figures/cat1_bishop.gif)
-<img width="256" height="256" alt="20" src="https://github.com/user-attachments/assets/81a781d6-1f56-4dab-88d8-7d3032ac457e" />
+<img width="256" height="256" alt="20" src="https://github.com/user-attachments/assets/b31a9c53-3a22-41f5-9430-57d23ce8ef56" />
+
 
 
 ### Cat 2 — 비숍 Top-down (Pitch)
@@ -97,6 +98,7 @@
 ![place error](figures/place_err_boxplot.png)
 <img width="1200" height="750" alt="cat_success_rate" src="https://github.com/user-
 시작/목적지 셀별 성공률:
+<img width="1200" height="750" alt="place_err_boxplot" src="https://github.com/user-attachments/assets/ae3f1f9a-1664-4aae-8ef0-b235c72e567e" />
 
 ![cell heatmap](figures/scenario_success_rate.png)
 <img width="1401" height="730" alt="image" src="https://github.com/user-attachments/assets/cc9d203b-9ad6-4a77-940b-2c93216a1e06" />
