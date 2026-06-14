@@ -75,6 +75,7 @@
 
 ### Cat 3 — 캡처
 ![cat3_capture](figures/cat3_capture.gif)
+<img width="256" height="256" alt="0" src="https://github.com/user-attachments/assets/1405b9f3-8323-4f69-92cb-12e3e1c9ed66" />
 
 ---
 
