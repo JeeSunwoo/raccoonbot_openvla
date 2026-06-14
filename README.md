@@ -1,3 +1,4 @@
+<img width="256" height="256" alt="11" src="https://github.com/user-attachments/assets/c81c9032-3daa-45b1-b64d-767c6723b0f4" />
 # raccoonbot_openvla
 2021741045_JeeSunWoo
 
@@ -61,6 +62,7 @@
 
 ### Cat 1 — 룩 픽앤플레이스
 ![cat1_rook](figures/cat1_rook.gif)
+<img width="256" height="256" alt="4" src="https://github.com/user-attachments/assets/6ce58056-8d37-419b-9059-b8da8e387419" />
 
 ### Cat 1 — 비숍 픽앤플레이스
 ![cat1_bishop](figures/cat1_bishop.gif)
