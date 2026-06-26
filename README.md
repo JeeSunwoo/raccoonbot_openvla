@@ -94,8 +94,6 @@
 
 <img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/260068a0-83f7-48fa-a2b2-c2c3be231de6" />
 
-<img width="1200" height="750" alt="cat_success_rate" src="https://github.com/user-
-
 <img width="1200" height="750" alt="place_err_boxplot" src="https://github.com/user-attachments/assets/ae3f1f9a-1664-4aae-8ef0-b235c72e567e" />
 
 <img width="1401" height="730" alt="image" src="https://github.com/user-attachments/assets/cc9d203b-9ad6-4a77-940b-2c93216a1e06" />
